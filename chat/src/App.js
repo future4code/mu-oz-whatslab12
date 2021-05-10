@@ -30,7 +30,7 @@ const Mensagem = styled.input `
 width: 400px; 
 `
 const CaixaTexto = styled.div ` 
-padding: 5px 10px;
+padding: 6px 10px;
 margin:5px;
 width: 100px;
 word-wrap: break-word;
@@ -40,7 +40,7 @@ border-radius: 5% 0 5px 10px;
 `
 
 const PosicaoTexto = styled.div ` 
-padding: 5px 10px;
+padding: 6px 10px;
 width: 100px;
 background-color: #faf3d5;
 align-self: flex-end;
